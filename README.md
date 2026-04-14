@@ -1,6 +1,12 @@
+<h1 align="center">divyansh</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+engineer;building+multi-agent+systems;shipping+LLM-native+tooling" alt="AI engineer · building multi-agent systems · shipping LLM-native tooling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1500&color=8B949E&center=true&vCenter=true&width=540&lines=AI+engineer;building+multi-agent+systems;shipping+LLM-native+tooling" alt="AI engineer · building multi-agent systems · shipping LLM-native tooling" />
 </p>
+
+<br />
+
+<p align="center"><code>$ cat divyansh.ts</code></p>
 
 ```ts
 const divyansh = {
